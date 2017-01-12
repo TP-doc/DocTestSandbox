@@ -7,6 +7,7 @@ Ein lokales Netzwerk soll über den LTE-Router mit dem Internet verbunden werden
 Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und in Slot 2 ein LTE-Modem eingesteckt ist.
 
 1. Web-Interface des Routers mit einem Browser aufrufen:
+
 * http://192.168.1.1
 * Benutzername: insys
 * Kennwort: icom
@@ -22,11 +23,13 @@ Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und i
 6. Im Menü "WAN -> WAN-Ketten" der neuen WAN-Kette ein neues Interface hinzufügen.
 
 7. Im Menü "Routing -> statische Routen" eine neue Route hinzufügen und bearbeiten (STIFT-Symbol):
+
 * "Anlegen nach Start von lte2"
 * "Art der Route: Default-Route"
 * "Gateway: dynamisch erhaltene IP-Adresse verwenden"
 
 8. Im Menü "Netzfilter -> NAT" bei ""Source-NAT" eine neue Regel hinzufügen und bearbeiten:
+
 * "Typ: Masquerade"
 * "Protokoll: Alle"
 * "Ausgehendes Interface: lte2"
