@@ -30,9 +30,9 @@ Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und i
 
 8. Im Menü "Netzfilter -> NAT" bei ""Source-NAT" eine neue Regel hinzufügen und bearbeiten:
 
-* "Typ: Masquerade"
-* "Protokoll: Alle"
-* "Ausgehendes Interface: lte2"
+ * "Typ: Masquerade"
+ * "Protokoll: Alle"
+ * "Ausgehendes Interface: lte2"
 
 9. Profil aktivieren durch Klick auf das blinkende Zahnrad in der Titelleiste
 
