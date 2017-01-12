@@ -1,0 +1,31 @@
+# Configuration Guides
+## Netzwerk-Themen
+* Internetverbindung über ein LTE-Modem
+* OpenVPN-Konfiguration zu ICS
+* IPsec mit GRE zu einem weiteren M3 und/oder MoRoS
+* Parallele OpenVPN-Verbindungen anhand von WAN-Gruppen
+* Redundante Netzwerkanbindung anhand von WAN-Ketten
+* Online nach Schlüsselschalter-Signal
+* Absichern der/des LANs mit Netzfiltern
+* Debugging mit den integrierten Tools (Ping, nslookup, traceroute, AT-Befehle)
+
+## Zusatzfeatures
+* Einstellungen sichern und wieder aufspielen (Profile managen)
+* Konfiguration zeitabhängiger Aktionen, z.B. NTP-Update, Auto-Update
+* Selbständiger Fallback nach Firmwareupdate oder Profilwechsel
+* Spiegeln des Zustandes von Eingängen zu Ausgängen über das Internet mit MCIP
+* SMS-Versand und Empfang aus dem Container
+* Erstellen eigener Update-Pakete
+* Aufbau eines eigenen Auto-Update-Servers
+* Grundeinstellungen herstellen
+* Selbstzerstörung (Demo Ereignisse, Aktionen, Timer)
+
+## ASCII-Konfig und LUA
+* Überwachen von Ethernetgeräten mit PING, Auslösen einer Aktion
+* Automatisches Anpassen des APN abhängig von der SIM-Karte
+
+## Container
+* Erzeugen eines Containers mit Boardmitteln
+* SMS-Versand und -Empfang im Container
+* Entwickeln von Containern - Best practice
+
