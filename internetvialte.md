@@ -8,9 +8,9 @@ Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und i
 
 1. Web-Interface des Routers mit einem Browser aufrufen:
 
-* http://192.168.1.1
-* Benutzername: insys
-* Kennwort: icom
+ * http://192.168.1.1
+ * Benutzername: insys
+ * Kennwort: icom
 
 2. Im Menü "Interfaces -> Slot 1 Ethernet" die Ports 1.3, 1.4 und 1.5 dem Interface "net2 LAN" zuordnen
 
@@ -24,9 +24,9 @@ Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und i
 
 7. Im Menü "Routing -> statische Routen" eine neue Route hinzufügen und bearbeiten (STIFT-Symbol):
 
-* "Anlegen nach Start von lte2"
-* "Art der Route: Default-Route"
-* "Gateway: dynamisch erhaltene IP-Adresse verwenden"
+ * "Anlegen nach Start von lte2"
+ * "Art der Route: Default-Route"
+ * "Gateway: dynamisch erhaltene IP-Adresse verwenden"
 
 8. Im Menü "Netzfilter -> NAT" bei ""Source-NAT" eine neue Regel hinzufügen und bearbeiten:
 
