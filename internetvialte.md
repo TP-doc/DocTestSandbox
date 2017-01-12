@@ -7,13 +7,10 @@ Ein lokales Netzwerk soll über den LTE-Router mit dem Internet verbunden werden
 Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und in Slot 2 ein LTE-Modem eingesteckt ist.
 
 1. Web-Interface des Routers mit einem Browser aufrufen:
-
   * http://192.168.1.1
   * Benutzername: insys
   * Kennwort: icom
-
 2. Im Menü "Interfaces -> Slot 1 Ethernet" die Ports 1.3, 1.4 und 1.5 dem Interface "net2 LAN" zuordnen
-
 3. Im Menü "Interfaces -> Slot 2" die PIN eintragen und den APN eintragen
 
 4. Im Menü "Interfaces -> IP-Netz2 (net2)" das Netzwerk aktivieren und eine IP-Adresse hinzufügen, die der Router im LAN erhalten soll (PLUS-Symbol).
