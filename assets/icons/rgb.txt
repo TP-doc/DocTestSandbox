@@ -1,0 +1,5 @@
+RGB-Farbwerte:
+1.	icom-blau: 0 – 165 – 219 
+2.	orange: 249 – 178 – 51 (hier habe ich ein helleres Orange genommen als das vorgegebene, weil es sich auf der Größe nicht mehr gut vom blau abhebt)
+3.	rot: 226 – 0 – 26 
+4.	grün: 164 – 196 – 0 
