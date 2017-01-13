@@ -12,9 +12,10 @@ Es wird vorausgesetzt, dass sich das Gerät in Grundeinstellungen befindet und i
  * *Kennwort*: icom
 2. Im Menü *Interfaces* -> *Slot 1 Ethernet* die Ports 1.3, 1.4 und 1.5 dem Interface *net2 LAN* zuordnen
 3. Im Menü *Interfaces* -> *Slot 2* die PIN eintragen und den APN eintragen
-4. Im Menü *Interfaces* -> *IP-Netz 2 (net2)* das Netzwerk aktivieren und eine IP-Adresse hinzufügen, die der Router im LAN erhalten soll !(https://TP-doc.github.io/DocTestSandbox/assets/icons/plus.png).
+4. Im Menü *Interfaces* -> *IP-Netz 2 (net2)* das Netzwerk aktivieren und eine IP-Adresse hinzufügen, die der Router im LAN erhalten soll
+![Plus](https://TP-doc.github.io/DocTestSandbox/assets/icons/plus.png).
 5. Im Menü *WAN* -> *WAN-Ketten* eine neue WAN-Kette hinzufügen !(https://TP-doc.github.io/DocTestSandbox/assets/icons/plus.png).
-6. Im Menü *WAN* -> *WAN-Ketten* der neuen WAN-Kette ein neues Interface hinzufügen !(https://TP-doc.github.io/DocTestSandbox/assets/icons/plus.png) und bearbeiten !(https://TP-doc.github.io/DocTestSandbox/assets/icons/pen.png):
+6. Im Menü *WAN* -> *WAN-Ketten* der neuen WAN-Kette ein neues Interface hinzufügen ![Plus](https://TP-doc.github.io/DocTestSandbox/assets/icons/plus.png) und bearbeiten ![Pen](https://TP-doc.github.io/DocTestSandbox/assets/icons/pen.png):
  * *Interface*: lte2
  * *Art des Verbindungschecks*: keine
 7. Im Menü *Routing -> statische Routen* eine neue Route hinzufügen !(https://TP-doc.github.io/DocTestSandbox/assets/icons/plus.png) und bearbeiten !(https://TP-doc.github.io/DocTestSandbox/assets/icons/pen.png):
