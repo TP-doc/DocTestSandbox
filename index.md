@@ -1,7 +1,7 @@
 # Configuration Guides
 
 ## Netzwerk-Themen
-* [Internetverbindung über ein LTE-Modem](https://tp-doc.github.io/DocTestSandbox/internetvialte.html)
+* [Internetverbindung über ein LTE-Modem](https://tp-doc.github.io/DocTestSandbox/pages/internetvialte.html)
 * OpenVPN-Konfiguration zu ICS
 * IPsec mit GRE zu einem weiteren M3 und/oder MoRoS
 * Parallele OpenVPN-Verbindungen anhand von WAN-Gruppen
